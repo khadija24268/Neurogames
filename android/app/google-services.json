@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "777048124289",
+    "project_id": "neurogames-440810",
+    "storage_bucket": "neurogames-440810.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777048124289:android:5061412b380d93f6ead680",
+        "android_client_info": {
+          "package_name": "com.example.capstone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA26IzVBF-YWTkWiFe_ANHrcUJVakekRPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
